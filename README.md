@@ -97,5 +97,3 @@ contract Vault {
 
 This project is licensed under the MIT License.
 ```
-
-Feel free to customize the README file further to suit your specific project details and requirements.
