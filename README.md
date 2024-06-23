@@ -1,6 +1,4 @@
 # avax-advance--1
-Certainly! Below is a sample `README.md` file for ERC20 and Vault contracts. This README file includes descriptions, installation instructions, usage, and examples.
-
 ```markdown
 # ERC20 and Vault Contracts
 
